@@ -1,0 +1,46 @@
+h1{
+    width: 323px;
+    height: 37px;
+    left: 70px;
+    top: 0px;
+    
+    font-family: Alegreya;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 33px;
+    text-align:center;
+    
+    color: red;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSocuPndwKJOekrrXD9By4O8o8bF_qg2mfwTg&usqp=CAU);
+    background-repeat: no-repeat;
+    
+
+}
+html{
+    background-color:greenyellow;
+}
+h2{
+    background-image: url(https://c8.alamy.com/comp/EXC3X4/online-shopping-concept-3d-render-EXC3X4.jpg);
+}
+#hank{
+    background-image: url(https://ssl.c.photoshelter.com/img-get2/I00003gjBFFPlIOQ/fit=1000x750/MG0154-Chicago-Skyline-Night-Panorama-Photo.jpg);
+}
+ol{
+    font-size: 36px;
+    color:white;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCVYM83bY2kpGMRt-T_6zxhkqwJ3lmkSrs1w&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+table{
+    background-color: orangered;
+    background-size: cover;
+}
+#savage{
+    font-size: 24px;
+    color:brown;
+}
+#space{
+    align-text:center;
+}

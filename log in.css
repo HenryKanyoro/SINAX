@@ -1,0 +1,19 @@
+#space{
+    text-align:center;
+    background-color:red;
+}
+#henry{
+    text-align:center;
+    font-size:45px;
+    color:blue;
+    background-color: orangered;
+}
+#cut{
+    font-size:45px;
+    color:black;
+    background-color: blue;
+    text-align: center;
+}
+html{
+    background-color: greenyellow;
+}
