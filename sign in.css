@@ -14,5 +14,16 @@ nav{
     background-image: url(https://ssl.c.photoshelter.com/img-get2/I00003gjBFFPlIOQ/fit=1000x750/MG0154-Chicago-Skyline-Night-Panorama-Photo.jpg);
 }
 html{
-    background-color: yellowgreen;
+    background-color: rgb(15, 208, 214);
 }
+nav ul li {
+    
+    text-align: right;
+    font-size: 22px;
+    flex-direction: row;
+    display:inline;
+    padding:50px 50px 50px;
+    text-align: right;
+    margin-left: 100px;
+}
+    

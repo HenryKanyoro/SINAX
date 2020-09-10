@@ -1,46 +1,86 @@
 h1{
-    width: 323px;
-    height: 37px;
-    left: 70px;
-    top: 0px;
+  
     
     font-family: Alegreya;
     font-style: normal;
     font-weight: normal;
-    font-size: 36px;
+    font-size: 46px;
     line-height: 33px;
     text-align:center;
     
     color: red;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSocuPndwKJOekrrXD9By4O8o8bF_qg2mfwTg&usqp=CAU);
     background-repeat: no-repeat;
+    background-size: cover;
     
 
 }
 html{
-    background-color:greenyellow;
+    background-color:rgb(15, 208, 214);
 }
 h2{
     background-image: url(https://c8.alamy.com/comp/EXC3X4/online-shopping-concept-3d-render-EXC3X4.jpg);
 }
 #hank{
     background-image: url(https://ssl.c.photoshelter.com/img-get2/I00003gjBFFPlIOQ/fit=1000x750/MG0154-Chicago-Skyline-Night-Panorama-Photo.jpg);
+    display: flex;
 }
-ol{
+#dark{
     font-size: 36px;
     color:white;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCVYM83bY2kpGMRt-T_6zxhkqwJ3lmkSrs1w&usqp=CAU);
     background-repeat: no-repeat;
     background-size:cover;
+    text-align: center;
 }
 table{
-    background-color: orangered;
-    background-size: cover;
+    margin-left: 400px;
+    align-items: center;
+    text-align: center;
 }
 #savage{
-    font-size: 24px;
+    font-size: 36px;
     color:brown;
+    margin-left: 250px;
 }
 #space{
     align-text:center;
+}
+nav ul li {
+    
+    text-align: right;
+    font-size: 22px;
+    flex-direction: row;
+    display:inline;
+    padding:50px 50px 50px;
+    text-align: right;
+    margin-left: 100px;
+}
+.down{
+    margin-left: 500px;
+}    
+
+.moto{
+    display: flex;
+    justify-content: space-between;
+
+}
+.fire{
+    display: flex;
+    justify-content: space-between;
+}
+.daro{
+    display: flex;
+    justify-content: space-between;
+}
+.dom{
+    display: flex;
+    justify-content: space-between;
+}
+.dh{
+    display: flex;
+    justify-content: space-between;
+}
+#glove{
+    margin-left: 200px;
 }

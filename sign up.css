@@ -15,5 +15,18 @@
     text-align: center;
 }
 html{
-    background-color: greenyellow;
+    background-color: rgb(15, 208, 214);
+}
+nav ul li {
+    
+    text-align: right;
+    font-size: 22px;
+    flex-direction: row;
+    display:inline;
+    padding:50px 50px 50px;
+    text-align: right;
+    margin-left: 100px;
+}
+.rap{
+    text-align: center;
 }
